@@ -2,7 +2,7 @@
 Cosmic-scale communication & mapping through frequency-based acoustic beacons
 
 Premise
-What if we used sound — not as we know it, but as a vibrational signature embedded into the fabric of space — to transmit data at galactic scales and receive information back?
+What if we used sound -- not as we know it, but as a vibrational signature embedded into the fabric of space -- to transmit data at galactic scales and receive information back?
 
 GRN proposes a system of goliath-sized resonators deployed across space, emitting carefully engineered frequencies that propagate through the interstellar medium.
 
@@ -24,7 +24,6 @@ The beginning of interstellar "sound-based" diplomacy
 
  Status
 Speculative. Dangerous. Fun.
-If you're a physicist, audio engineer, or just mad enough — open an issue, start a discussion, or build a prototype.
+If you're a physicist, audio engineer, or just mad enough -- open an issue, start a discussion, or build a prototype.
 
-Let’s map the universe not with silence — but with resonance.
-
+Let’s map the universe not with silence -- but with resonance.
