@@ -1,29 +1,32 @@
- Galactic Resonance Network (GRN)
-Cosmic-scale communication & mapping through frequency-based acoustic beacons
+# Galactic Resonance Network (GRN)
 
-Premise
-What if we used sound -- not as we know it, but as a vibrational signature embedded into the fabric of space -- to transmit data at galactic scales and receive information back?
+A thought experiment about mapping and signalling across space with huge engineered resonators.
 
-GRN proposes a system of goliath-sized resonators deployed across space, emitting carefully engineered frequencies that propagate through the interstellar medium.
+> **Status: speculative concept only.** This repository is a single README. There is no code, model or calculation yet, and parts of the idea conflict with known physics (noted below).
 
-Concept
-Hyper-frequency resonators: Emitting unique vibration profiles tuned to propagate through varying densities of space.
+## Premise
 
-Feedback resonance mapping: Capture bounced signals off celestial bodies to deduce structure, composition, and relative positioning.
+What if vibration, not light, were used to send data across space and to map what is out there? GRN imagines enormous resonators placed throughout space, each emitting a carefully engineered frequency signature that propagates through the interstellar medium and echoes back off the bodies it meets.
 
-Faster-than-light inference? Leveraging entangled resonance patterns and relativistic shifts as a communication vector.
+## Concept
 
- Potential Outcomes
-Near-instant universal data transmission via frequency signatures
+- **Hyper-frequency resonators** emitting distinct vibration profiles, tuned for the varying densities of space.
+- **Feedback resonance mapping:** listen for signals bounced off celestial bodies to infer structure, composition and relative position, like sonar at galactic scale.
+- **"Faster-than-light inference":** an open question about whether entangled resonance patterns and relativistic shifts could carry information.
 
-Passive detection of rogue bodies and dark matter anomalies
+## Reality check
 
-A new framework for multi-dimensional astrophysical cartography
+- **Sound does travel in space, barely.** The interstellar medium is extremely thin (on the order of one atom per cubic centimetre), so pressure waves exist only at very long wavelengths and travel far slower than light. Astronomers have observed such waves around galaxy clusters, for example the Perseus cluster, but a single oscillation of those waves takes millions of years.
+- **Entanglement cannot send information.** The no-communication theorem rules out faster-than-light signalling through entanglement, so that part of the concept would need a different mechanism or should be dropped.
+- **Light and radio already do the mapping job** well, so any resonance approach would need a clear advantage, for example probing matter that does not emit or reflect light.
 
-The beginning of interstellar "sound-based" diplomacy
+## Imagined outcomes
 
- Status
-Speculative. Dangerous. Fun.
-If you're a physicist, audio engineer, or just mad enough -- open an issue, start a discussion, or build a prototype.
+- Long-range data transmission via frequency signatures
+- Passive detection of rogue bodies and dark matter anomalies
+- A new framework for astrophysical cartography
+- The beginnings of "sound-based" interstellar diplomacy
 
-Let’s map the universe not with silence -- but with resonance.
+## Get involved
+
+Speculative and fun. If you are a physicist, an audio engineer, or just curious, open an issue or start a discussion. The most useful next step would be a back-of-the-envelope model: how large a resonator, at what frequency, reaches how far in a realistic interstellar medium.
